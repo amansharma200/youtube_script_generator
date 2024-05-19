@@ -1,0 +1,33 @@
+# YouTube Script Generator
+
+The YouTube Script Generator is a Streamlit-based application designed to assist content creators in generating scripts for their YouTube videos. With the help of natural language processing techniques, it automates the process of creating engaging and informative scripts, saving creators time and effort.
+
+## How to Run
+
+1. **Extract zip file**
+   
+
+2. **Install Dependencies:**
+   ```
+   pip install -r requirements.txt
+   ```
+
+3. **Run the Application:**
+   ```
+   streamlit run main.py
+   ```
+
+4. **Access the Application:**
+   Open your web browser and navigate to the provided URL to access the YouTube Script Generator.
+
+## Usage
+
+1. **Choose Video Format:**
+   Select the desired video format (short format or long format) from the dropdown menu.
+   
+2. **Enter Topic:**
+   Enter the topic of your YouTube video in the text input field.
+
+3. **Generate Script:**
+   Click the "Generate Script" button to generate a script based on the selected video format and topic.
+
